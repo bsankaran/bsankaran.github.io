@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Interactive Perception
+subtitle: Manipulation to service perception
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: interactive_perception.jpg
+thumbnail: interactive_perception.jpg
 alt: image-alt
-project-date: April 2014
+project-date: May 2012 - July 2018
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: We explore how to perform interactive information acquisition by picking manipulation actions that can enhance 3D Perception
 
 ---

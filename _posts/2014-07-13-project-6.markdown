@@ -1,11 +1,11 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Space Robotics
+subtitle: Using robotics to aid space exploration
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: space_systems_lab.jpg
+thumbnail: space_systems_lab.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

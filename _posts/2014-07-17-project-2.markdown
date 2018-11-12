@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Active Perception
+subtitle: Movement to service perception
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: carnegie_mellon.JPG
+thumbnail: carnegie_mellon.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
