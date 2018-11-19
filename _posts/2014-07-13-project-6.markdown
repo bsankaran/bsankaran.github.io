@@ -1,11 +1,11 @@
 ---
-title: Space Robotics
-subtitle: Using robotics to aid space exploration
+title: Outreach
+subtitle: Making robotics education more accessible
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: space_systems_lab.jpg
-thumbnail: space_systems_lab.jpg
+date: 2014-07-14
+img: outreach.JPG
+thumbnail: outreach.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -13,3 +13,4 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+

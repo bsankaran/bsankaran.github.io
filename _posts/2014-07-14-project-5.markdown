@@ -1,11 +1,11 @@
 ---
-title: Outreach
-subtitle: Making robotics education more accessible
+title: Visual Localization and Navigation in Variable Environments 
+subtitle: Using robotics to aid space exploration
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: outreach.JPG
-thumbnail: outreach.JPG
+date: 2014-07-15
+img: space_systems_lab.jpg
+thumbnail: space_systems_lab.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
