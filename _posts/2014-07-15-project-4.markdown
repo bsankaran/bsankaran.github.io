@@ -1,11 +1,11 @@
 ---
 title: Robust 3D Recognition
-subtitle: Website Design
+subtitle:
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: 3d_perception_resized.jpg
+thumbnail: 3d_perception_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

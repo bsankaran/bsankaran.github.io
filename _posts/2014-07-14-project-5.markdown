@@ -1,11 +1,11 @@
 ---
-title: Visual Localization and Navigation in Variable Environments 
-subtitle: Using robotics to aid space exploration
+title: Visual Navigation
+subtitle:
 layout: default
 modal-id: 5
 date: 2014-07-15
 img: space_systems_lab.jpg
-thumbnail: space_systems_lab.jpg
+thumbnail: space_systems_lab_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

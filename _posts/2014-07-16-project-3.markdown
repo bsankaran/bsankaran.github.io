@@ -1,11 +1,11 @@
 ---
-title: Bosch Research
-subtitle: Shared autonomy interfaces for failure recovery
+title: Shared Autonomy
+subtitle:
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: bosch_research.JPG
-thumbnail: bosch_research.JPG
+img: active_perception.JPG
+thumbnail: bosch_research_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

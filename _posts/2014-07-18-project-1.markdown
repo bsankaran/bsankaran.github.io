@@ -1,11 +1,11 @@
 ---
 title: Interactive Perception
-subtitle: Manipulation to service perception
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: interactive_perception.jpg
-thumbnail: interactive_perception.jpg
+thumbnail: interactive_perception_thumbnail.jpg
 alt: image-alt
 project-date: May 2012 - July 2018
 client: Start Bootstrap

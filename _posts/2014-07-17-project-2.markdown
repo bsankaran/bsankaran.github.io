@@ -1,11 +1,11 @@
 ---
 title: Active Perception
-subtitle: Movement to service perception
+subtitle:
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: carnegie_mellon.JPG
-thumbnail: carnegie_mellon.JPG
+thumbnail: carnegie_mellon_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
