@@ -1,7 +1,7 @@
 # Color settings (hex-coudes without the leading hash-tag)
 color:
-  primary: ff4500
-  secondary: ff4500
+  primary: FFF300
+  secondary: FFF300
   secondary-dark: 283747
   muted: 283747
 

@@ -62,7 +62,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #BDBDB8;
 }
 
 .bg-darkest-gray {
@@ -326,10 +326,10 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 20px;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 20px;
+    font-size: 15px;
     font-color: #cae1f7
 /*    font-style: italic;*/
-    line-height: 20px;
+    line-height: 15px;
 }
 
 header .icon-box {
@@ -340,30 +340,30 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 30px;
     font-color: #cae1f7
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 375px;
         padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 10px;
         font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-        padding-right: 55px;
-        padding-left: 55px;
+        padding-right: 25px;
+        padding-left: 25px;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
@@ -620,7 +620,7 @@ section h3.section-subheading {
     .timeline>li .timeline-image h4 {
         margin-top: 16px;
         font-size: 13px;
-        line-height: 18px;
+        line-height: 10px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
