@@ -10,6 +10,10 @@ alt: image-alt
 project-date: May 2012 - July 2018
 client: Start Bootstrap
 category: Web Development
-description: We explore how to perform interactive information acquisition by picking manipulation actions that can enhance 3D Perception
+description: In order to achieve robust autonomy, physical systems should be able to leverage their ability to move and interact with their environments in order to enhance their models of these environments.
+             It is widely accepted that such causal reasoning is widely utilized in biological systems to develop better models of their environments (as seen in children).
+             Building on this intuition, Interactive perception can be viewed as utilizing the ability to physically manipulate the environment to service perception and vice versa.
+             Robots capable of manipulating the environment can be endowed with the ability of interactive perception. Then using tools from information acquistion we can pose the problem of state estimation as one of
+             action selection to reduce uncertainty in estimation.
 
 ---

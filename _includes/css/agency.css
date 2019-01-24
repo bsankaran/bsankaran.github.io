@@ -830,6 +830,7 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    background-color: #BDBDB8;
 }
 
 .portfolio-modal .modal-content h2 {
@@ -863,7 +864,7 @@ ul.social-buttons li a:active {
     right: 25px;
     width: 75px;
     height: 75px;
-    background-color: transparent;
+    background-color: #BDBDB8;
     cursor: pointer;
 }
 

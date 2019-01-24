@@ -10,6 +10,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Exploiting the movement of mobile sensors to improve the estimate of the target they are sensing is a well studied problem in active sensing.
+             Developing on this line of work, mobile robots can similarly be treated as mobile sensors and the problem of state estimation can be treated as one of active information acquisition.
+             Then similar to interactive perception tools from information acquistion we can exploited to solve the state estimation problem as an action selection that reduces uncertainty regarding the target
+             quantity being sensed.
 
 ---
