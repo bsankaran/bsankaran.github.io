@@ -13,6 +13,8 @@ people:
   pic: 1
 - name: Rock Climbing
   pic: 2
+- name: Outreach
+  pic: 3
 
   # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
