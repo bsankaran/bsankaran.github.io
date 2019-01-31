@@ -6,14 +6,23 @@ modal-id: 1
 date: 2014-07-18
 img: interactive_perception.jpg
 thumbnail: interactive_perception_thumbnail.jpg
+papers: <a href="https://ieeexplore.ieee.org/abstract/document/8007233">[ TRO 2017 ]</a>, <a href="https://tinyurl.com/y9uf5y32" target="_blank">[ Preprint ]</a>, <a href="https://tinyurl.com/y9c2amnj">[ RLDM 15 ]</a>
 alt: image-alt
-project-date: May 2012 - July 2018
-client: Start Bootstrap
-category: Web Development
 description: In order to achieve robust autonomy, physical systems should be able to leverage their ability to move and interact with their environments in order to enhance their models of these environments.
              It is widely accepted that such causal reasoning is widely utilized in biological systems to develop better models of their environments (as seen in children).
              Building on this intuition, Interactive perception can be viewed as utilizing the ability to physically manipulate the environment to service perception and vice versa.
-             Robots capable of manipulating the environment can be endowed with the ability of interactive perception. Then using tools from information acquistion we can pose the problem of state estimation as one of
-             action selection to reduce uncertainty in estimation.
+             Robots capable of manipulating the environment can be endowed with the ability of interactive perception.
+             </br>
+              <iframe width="480" height="300" style="padding:10px;" src="https://www.youtube.com/embed/mVEYqssPYvE" frameborder="0" align="right" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             Problems of this flavor can be formulated using tools from information acquistion. With such a formulation we can pose the problem of state estimation as one of
+             action selection to reduce uncertainty in estimation. Then we can use well studied tools from optimal control to solve these action selection problems. I have provided a template for formulation and
+             solution methods in Chapter 2 & 3 of
+             my <a href="https://tinyurl.com/ydapy7nc" target="_blank">thesis</a>. The standalone chapter on the problem formulation template can be downloaded  <a href="https://tinyurl.com/y8lqsv78">here</a>
+             and some tools that can be used to solve the estimation and action selection problem can be read <a href="https://tinyurl.com/y6uzqpox">here</a>.
+             </br>
+             Interactive perception can be used to solve a wide a variety of perception and manipulation problems where the underlying estimation or action selection problem can be simplified by using Interactive Perception.
+             During the course of my doctoral studies I used Interactive perception to solve the problem of 3D object recognition in challenging environments where the target objects are <a href"https://tinyurl.com/y9uf5y32">
+             partially or entirely occluded</a>. Apart from object recognition, Interactive Perception has been also been used in a wide a variety of problems ranging from learning state representations to grasp planning.
+             My collaborators and I extensively covered the research in this field and its applications in our 2017, <a href"https://arxiv.org/pdf/1604.03670.pdf">Transactions in Robotics paper</a>.
 
 ---

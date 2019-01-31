@@ -4,6 +4,7 @@ color:
   secondary: FFF300
   secondary-dark: 283747
   muted: 283747
+  background-hover: BDBDB8
 
 # Font Families
 font:
