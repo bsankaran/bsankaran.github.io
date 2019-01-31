@@ -7,9 +7,7 @@ date: 2014-07-17
 img: carnegie_mellon.JPG
 thumbnail: carnegie_mellon_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+papers: <a href="https://link.springer.com/article/10.1007/s10514-017-9615-3">[ AURO 2018 ]</a>, <a href="https://tinyurl.com/y9c2amnj" target="_blank">[ TRO-14 ]</a>
 description: Exploiting the movement of mobile sensors to improve the estimate of the target they are sensing is a well studied problem in active sensing.
              Developing on this line of work, mobile robots can similarly be treated as mobile sensors and the problem of state estimation can be treated as one of active information acquisition.
              Then similar to interactive perception tools from information acquistion we can exploited to solve the state estimation problem as an action selection that reduces uncertainty regarding the target
