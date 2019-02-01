@@ -7,9 +7,7 @@ date: 2014-07-15
 img: 3d_perception_resized.jpg
 thumbnail: robust_3d_recognition_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+papers: <a href="">[ ICRA-13 ]</a>, <a href="" target="_blank">[ Thesis Chapter 4 ]</a>, <a href="">[ Some DNN paper ]</a>
+description: One of the challenges of visual navigation is to be accurately localize against structures that frequently change appearance, these could be artifacts of specular reflections, changes in weather conditions or due to the physical evolution of the structure. This page details some of the work I have done in this area of research.
 
 ---

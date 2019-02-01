@@ -7,9 +7,7 @@ date: 2014-07-15
 img: space_systems_lab.jpg
 thumbnail: aerial_visual_navigation_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+papers: <a href="">[ ICRA 2011 ]</a>
 description: One of the challenges of visual navigation is to be accurately localize against structures that frequently change appearance, these could be artifacts of specular reflections, changes in weather conditions or due to the physical evolution of the structure. This page details some of the work I have done in this area of research.
 
 ---

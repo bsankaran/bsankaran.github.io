@@ -10,7 +10,10 @@ alt: image-alt
 papers: <a href="https://link.springer.com/article/10.1007/s10514-017-9615-3">[ AURO 2018 ]</a>, <a href="https://tinyurl.com/y9c2amnj" target="_blank">[ TRO-14 ]</a>
 description: Exploiting the movement of mobile sensors to improve the estimate of the target they are sensing is a well studied problem in active sensing.
              Developing on this line of work, mobile robots can similarly be treated as mobile sensors and the problem of state estimation can be treated as one of active information acquisition.
-             Then similar to interactive perception tools from information acquistion we can exploited to solve the state estimation problem as an action selection that reduces uncertainty regarding the target
+             Then similar to <a href="https://ieeexplore.ieee.org/abstract/document/8007233">Interactive Perception</a>, tools from <a href="https://tinyurl.com/y6uzqpox">information acquistion</a> we can exploited to solve the state estimation problem as an action selection that reduces uncertainty regarding the target
              quantity being sensed.
+             </br>
+             Active perception as a method to enhance sensing was introduced in robotics was first introduced by <a href="https://tinyurl.com/ydcddf8n">Basjcy. R</a> in the 80s. Since then this field has been extensively studied using tools from optimal control and decision making to solve a myriad of  <a href="https://link.springer.com/article/10.1007/s10514-017-9615-3">problems in robotics</a>. </br>
+             While in academia I used active perception methods to solve problems in 3D object recognition. My collaborators and I formulated a novel non myopic view selection method for improving <a href="https://tinyurl.com/y9c2amnj" target="_blank">3D object recognition</a>. <iframe width="480" height="300" style="padding:10px;" src="https://www.youtube.com/embed/mVEYqssPYvE" frameborder="0" align="right" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>. More recently I have been using tools from active perception to solve problems in 3D SLAM and coverage planning apart from 3D object recognition.
 
 ---
