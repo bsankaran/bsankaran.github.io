@@ -8,7 +8,7 @@ img: active_perception.JPG
 thumbnail: bosch_research_thumbnail.jpg
 alt: image-alt
 papers: <a href="">[ IROS 2012 ]</a>
-description: Robust autonomy though an objective of physical systems should be able to leverage their ability to move and interact with their environments in order to enhance their models of these environments.
+description: In order to achieve robust autonomy for physical systems, these systems should be capable of failure free operations for long durations of time or fail gracefully. 
 
 
 ---
