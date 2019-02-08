@@ -30,10 +30,6 @@ talks:
 social:
   - title: twitter
     url: https://twitter.com/BharathSankara1
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
     url: http://bitbucket.org/scaledrobotics
   - title: github
