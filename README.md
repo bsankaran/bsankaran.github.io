@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Agency Jekyll theme
 ====================
 
@@ -32,4 +31,3 @@ For more details, read [documentation](http://jekyllrb.com/)
 =======
 # bsankaran.github.io
 Bharath Sankaran | Scientist / Entrepreneur / Engineer
->>>>>>> master
