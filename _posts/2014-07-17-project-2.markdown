@@ -20,7 +20,7 @@ description: Exploiting the movement of mobile sensors to improve the estimate o
              <iframe width="480" height="300" style="padding:10px;" src="https://www.youtube.com/embed/pciIvnmfqfs" frameborder="0" align="right" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              While in academia I used active perception methods to solve complex problems in 3D object recognition.
              I am particularly interested in solving visual recognition problems in environments that are plagued with occlusions, dynamic obstacles and variations in appearance.
-             In ICRA 2013 and TRO-14, my collaborators and I formulated a novel non myopic view selection algorithm for improving <a href="https://tinyurl.com/y9c2amnj" target="_blank">3D object recognition</a>.
+             In ICRA 2013 and TRO-14, my collaborators and I formulated a novel non myopic view selection algorithm for improving <a href="https://tinyurl.com/yalngt7n" target="_blank">3D object recognition</a>.
              More recently, apart from 3D object recognition, I have been using tools from active perception to solve problems in 3D SLAM and coverage planning.
 
 ---

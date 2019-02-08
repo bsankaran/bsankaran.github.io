@@ -4,10 +4,10 @@ subtitle:
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: space_systems_lab.jpg
+img: visual_navigation_resized.jpg
 thumbnail: aerial_visual_navigation_thumbnail.jpg
 alt: image-alt
-papers: <a href=" ">[ ICRA 2011 ]</a>, <a href=" ">[ IROS 2016 ]</a>
+papers: <a href="https://tinyurl.com/yaobusvr">[ ICRA 2011 ]</a>, <a href="https://tinyurl.com/y9m4x9e7">[ IROS 2016 ]</a>
 description: Another facet of autonomy involves the ability to localize and navigate in either previously seen or novel environments. There are a plethora of challenges associated with these tasks. In such settings, autonomous systems need to be able to semantically parse the environment to recognize salient regions pertinent to the localization or navigation task. This can be particularly challenging in environments that are subject to frequent change in appearance. These changes can be artifacts of specular reflections or changes in lighting, changes in weather conditions, or changes related to the physical evolution of the structure of the environment. These changes can ve viewed as short, medium and long term appearance changes respectively. In such scenarios, the ability of a vision system to exploit information regarding the geometry and texture of the environment to be invariant to these changes is essential for robust autonomy.</br><iframe width="480" height="300" style="padding:10px;" src="https://www.youtube.com/embed/UqPvTWoUfZ0" frameborder="0" align="right" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>. In this line of research, I have studied and developed algorithms along with my collaborators for systems that are robust to short term appearance changes to due lighting conditions and reflections in ICRA 2011. This work was utilized to aid autonomous aerial vehicles to navigate reverine environments that are subject to changes in appearance due to time of day or specular reflections. I have also developed localization algorithms for autonomous driving systems to be robust to changes in appearance caused by weather conditions. This work was published in IROS 2016. More recently, I have also been working on developing semantic localization and navigation algorithms that can account for long term permanent appearance changes. This work is primarily focused on achieving autonomous navigation capabilities in environments that evolve over time such as building construction sites. 
 
 

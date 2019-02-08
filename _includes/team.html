@@ -30,7 +30,7 @@
                 {% endfor %}
             </div>
             <div class="row">
-                <div class="col-lg-12 text-center">
+                < class="col-lg-12 text-center">
                     <p class="section-subheading text-muted" style="font-size:125%;text-align:justify">I believe both Argentine Tango and Rock Climbing, apart from being extremely satisfying and relaxing are also problems that
                         involve highly coupled perception-action loops. These problems also rely on low level model predictive control while executing a larger global plan. They also incorporate exploration
                         to deal with environment uncertainty. With these observations from the dance floor and climbing gym, I want to understand how we can build robots capable exploiting motion
@@ -38,8 +38,27 @@
                     <p class="section-subheading text-muted" style="font-size:125%;text-align:justify">
                         Another passion of mine is making science education accessible. When the opportunity presents itself I like talking to students on how to pursue interesting careers in
                     Science and Technology. On a separate note, there is wide spread misinformation on the capabilities and limitations of technology. In my spare time, I like to engage non-technical audiences on
-                    what technology (especially Robotics & A.I) can and cannot do for them. I believe this outreach will help them see clearly through all the hype in mass media.</p>
+                    what technology (especially Robotics & A.I) can and cannot do for them. I believe this outreach will help them see clearly through all the hype in mass media.</p> </br> </br>
                 </div>
+            </div>
+            <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Recent Talks</h2>
+                    <div class="row row-no-gutters">
+                        {% for member in site.talks %}
+                        <div class="col-sm-4">
+                            <div class="team-member">
+                                <a href="{{ network.url }}">
+                                <img src="img/talks/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" style="width:50%">
+                                </a>
+                                <h4>{{ member.name }}</h4>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
             </div>
         </div>
     </section>

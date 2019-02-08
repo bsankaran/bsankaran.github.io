@@ -14,7 +14,11 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
+                            {% if post.modal-id == 3 or post.modal-id == 4 %}
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" style="width:35%;height:35%" alt="{{ post.alt }}">
+                            {% else %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" style="width:50%;height:50%" alt="{{ post.alt }}">
+                            {% endif %}
                             <p style="font-size:100%; text-align:justify">{{ post.description }}</p>
                             <ul class="list-inline item-details" style="text-align:left">
                                 {%if post.papers %}
