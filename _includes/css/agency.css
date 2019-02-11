@@ -727,10 +727,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color:  #{{site.data.template.color.secondary-dark}};
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #{{site.data.template.color.secondary-dark}};
 }
 
 section#contact .form-control:focus {
